@@ -1,0 +1,2 @@
+# GitTstSubmodule
+Submodule test
